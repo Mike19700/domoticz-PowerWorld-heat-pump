@@ -4,11 +4,11 @@ This is a plugin for [Domoticz home automation system](https://www.domoticz.com)
 I used a RS485 over LAN connection to cummunicate with the inverter.
 
 Requirements:
-    *1. python module pip -> https://pypi.org/project/pip/
+    * python module pip -> https://pypi.org/project/pip/
         sudo apt install python3-pip
-    *2. python module modbus-crc  -> https://pypi.org/project/modbus-crc/
+    * python module modbus-crc  -> https://pypi.org/project/modbus-crc/
         sudo pip3 install modbus-crc
-    *3. Communication module Modbus USB to RS485 or Modbus TCP to RS485
+    * Communication module Modbus USB to RS485 or Modbus TCP to RS485
         tested with Sollae CSE-H25 using RTU-over-TCP -> https://www.eztcp.com/en/products/cse-h25
 
 Connection to CN485:
