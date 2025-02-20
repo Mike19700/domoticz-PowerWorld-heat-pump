@@ -1,6 +1,6 @@
 # domoticz-PowerWorld-heat-pump
-Domoticz modbus plugin for Powerworld inverters.
-This is a plugin for [Domoticz home automation system](https://www.domoticz.com) that **reads and writes parameters from and to the [PowerWorld R290 heat pumps]([https://emmeti.com](https://powerworld-e.com/content.php?cid=10))** by Modbus connection.
+Domoticz modbus plugin for Powerworld inverters.<br>
+This is a plugin for [Domoticz home automation system](https://www.domoticz.com) that **reads and writes parameters from and to the [PowerWorld R290 heat pumps]([https://emmeti.com](https://powerworld-e.com/content.php?cid=10))** by modbus connection.<br>
 I used a RS485 over LAN connection to cummunicate with the inverter.
 
 Requirements:
