@@ -4,7 +4,7 @@ This is a plugin for [Domoticz home automation system](https://www.domoticz.com)
 I used a RS485 over LAN connection to cummunicate with the inverter.
 
 Requirements:
-* python module pip -> https://pypi.org/project/pip/
+* python module pip -> https://pypi.org/project/pip/<br>
     sudo apt install python3-pip
 * python module modbus-crc  -> https://pypi.org/project/modbus-crc/
     sudo pip3 install modbus-crc
