@@ -1,2 +1,19 @@
 # domoticz-PowerWorld-heat-pump
 Domoticz modbus plugin for Powerworld inverters.
+This is a plugin for [Domoticz home automation system](https://www.domoticz.com) that **reads and writes parameters from and to the [PowerWorld R290 heat pumps]([https://emmeti.com](https://powerworld-e.com/content.php?cid=10))** by Modbus connection.
+I used a RS485 over LAN connection to cummunicate with the inverter.
+
+Requirements:
+    1. python module pip -> https://pypi.org/project/pip/
+        sudo apt install python3-pip
+    1. python module modbus-crc  -> https://pypi.org/project/modbus-crc/
+        sudo pip3 install modbus-crc
+    2. Communication module Modbus USB to RS485 or Modbus TCP to RS485
+        tested with Sollae CSE-H25 using RTU-over-TCP -> https://www.eztcp.com/en/products/cse-h25
+
+Connection to CN485:
+Black = Ground
+Blue = A
+Yellow = B
+
+![RS-485](https://github.com/user-attachments/assets/fa2a5fd0-28de-4cd7-a4e4-b1cb514358c7)
