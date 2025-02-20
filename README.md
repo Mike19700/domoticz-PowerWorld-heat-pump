@@ -16,4 +16,4 @@ Black = Ground
 Blue = A
 Yellow = B
 
-![RS-485](https://github.com/user-attachments/assets/fa2a5fd0-28de-4cd7-a4e4-b1cb514358c7)
+![RS-485](https://github.com/user-attachments/assets/b33b0bd0-3eef-4cfc-b55e-737d282f8a35)
