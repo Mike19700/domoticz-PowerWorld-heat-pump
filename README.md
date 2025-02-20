@@ -12,8 +12,8 @@ Requirements:
         tested with Sollae CSE-H25 using RTU-over-TCP -> https://www.eztcp.com/en/products/cse-h25
 
 Connection to CN485:
-Black = Ground
-Blue = A
-Yellow = B
+* Black = Ground
+* Blue = A
+* Yellow = B
 
 ![RS-485](https://github.com/user-attachments/assets/b33b0bd0-3eef-4cfc-b55e-737d282f8a35)
