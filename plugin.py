@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# https://github.com/Sateetje/SPRSUN-Modbus/blob/master/plugin.py#L652
+# https://github.com/Mike19700/domoticz-PowerWorld-heat-pump
 
 # Basic PowerWorld heatpump Python plugin
 #
